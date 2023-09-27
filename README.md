@@ -3,8 +3,6 @@
 
 - 🔭 Estou interessado em por em prática os meus conhecimentos sem ser em projetos paralelos **.**
 
-- 🌱 Atualmente estou me aperfeiçoando em JS **.**
-
 - 💞️ Atualmente estou me aperfeiçoando em JS **.**
 
 - 💬 Python, CSS, JavaScript, HTML **.**
